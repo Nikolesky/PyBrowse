@@ -9,8 +9,7 @@ Inspired by modern browsers like Chrome and Firefox, this project combines a sle
 
 - 🗂️ Tabbed browsing interface  
 - 🧠 Headless browser integration using **Qt WebEngine**  
-- 🔄 Basic navigation: Back, Forward, Reload, Home, and URL bar  
-- 📑 (Optional) Bookmark and history support  
+- 🔄 Basic navigation: Back, Forward, Reload, Home, and URL bar 
 - ⚙️ Lightweight and customizable  
 
 ---
